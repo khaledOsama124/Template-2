@@ -33,6 +33,6 @@ ul {
 
 @media (min-width:760px) {
     .container{
-        
+        width: 750px;
     }
 }

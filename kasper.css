@@ -9,18 +9,18 @@
 }
 
 
-.html {
+html {
     scroll-behavior: smooth;
 }
 
-.body {
-    font-family: "open Sans", sans-serif;
+body {
+    font-family: "open Sans",sans-serif;
     background-color:black;
 
 }  
 
 
-.ul {
+ul {
     list-style:none;
 }
 

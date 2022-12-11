@@ -9,7 +9,7 @@
 }
 
 
-html {
+.html {
     scroll-behavior: smooth;
 }
 
@@ -20,7 +20,7 @@ html {
 }  
 
 
-ul {
+.ul {
     list-style:none;
 }
 

@@ -183,5 +183,6 @@ header nav ul li a:hover {
 
   .landing .overlay {
     position: absolute;
+    left: 0;
 
   }

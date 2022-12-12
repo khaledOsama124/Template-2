@@ -368,6 +368,7 @@ header nav ul li a:hover {
     .Services .srv-box {
       display: flex;
       flex-direction: column;
+      text-align: center;
     }
 
   }

@@ -104,6 +104,9 @@ html {
   }
 
   @media (max-width:767px) {
+    header nav ul {
+      
+    }
 
   }
 

@@ -61,5 +61,6 @@ html {
 
   header .container::after {
     content:'';
+    position:absolute;
 
   }

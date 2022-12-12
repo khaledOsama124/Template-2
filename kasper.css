@@ -106,5 +106,6 @@ html {
   }
 
   header nav ul li a:hover {
-    
+    color:var(--main-color);
+
   }

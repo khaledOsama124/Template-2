@@ -196,4 +196,6 @@ header nav ul li a:hover {
     left: 0;
     top: 50%;
     transform: translateY(-50%);
+    width: 50%;
+
   }

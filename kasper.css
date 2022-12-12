@@ -172,6 +172,7 @@ header nav ul li a:hover {
 
   .landing {
     min-height: 100vh;
+    background-color: #1f2021;
     background-image: url(landing.jpg);
     background-size: cover;
 

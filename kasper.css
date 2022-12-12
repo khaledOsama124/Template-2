@@ -248,6 +248,7 @@ header nav ul li a:hover {
     position: absolute;
     left: 50%;
     transform:translateX(-50%);
+    bottom: 30px;
 
   }
 

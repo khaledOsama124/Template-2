@@ -115,4 +115,5 @@ header nav ul li a:hover {
     width:40px;
     height:30px;
     position:relative;
+    margin-left: 1px solid white;
   }

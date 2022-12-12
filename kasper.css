@@ -75,5 +75,5 @@ html {
   }
 
   header nav {
-    
+    flex: 1;
   }

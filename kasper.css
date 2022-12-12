@@ -242,6 +242,10 @@ header nav ul li a:hover {
     color:#ddd;
   }
 
+  @media (max-width:767px) {
+    
+  }
+
   .landing .fa-angle-left {
     left: 30px;
 

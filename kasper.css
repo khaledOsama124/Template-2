@@ -61,11 +61,12 @@ html {
   }
 
   .main-heading h2::before {
-    
+    content: '';
 
   }
 
   .main-heading h2::after {
+    content: '';
 
   }
 

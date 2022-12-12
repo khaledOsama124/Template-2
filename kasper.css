@@ -245,6 +245,7 @@ header nav ul li a:hover {
   }
 
   .landing .bullets {
+    position: absolute;
 
   }
 
@@ -252,7 +253,11 @@ header nav ul li a:hover {
 
   }
 
-  
+  .landing .bullets li.active {
+
+  }
+
+
 
 
   

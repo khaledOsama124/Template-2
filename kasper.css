@@ -171,5 +171,6 @@ header nav ul li a:hover {
   }
 
   .landing {
-    
+    min-height: 100vh;
+
   }

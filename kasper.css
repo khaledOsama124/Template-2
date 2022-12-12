@@ -206,6 +206,10 @@ header nav ul li a:hover {
 
 
   }
+
+  @media (max-width:767px) {
+    
+  }
   .landing .text .content {
     max-width: 500px;
 

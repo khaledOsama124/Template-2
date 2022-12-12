@@ -58,3 +58,7 @@ html {
     border-bottom:4px solid white;
 
   }
+
+  header .container::after {
+    
+  }

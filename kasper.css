@@ -194,4 +194,5 @@ header nav ul li a:hover {
   .landing .text {
     position: absolute;
     left: 0;
+    top: 50%;
   }

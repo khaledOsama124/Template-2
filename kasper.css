@@ -50,8 +50,10 @@ ul {
 
 header {
 
+
 }
 
 header .container {
-    
+    display: flex;
+
 }

@@ -88,5 +88,5 @@ html {
   }
 
   header nav ul li a {
-    
+    display: block;
   }

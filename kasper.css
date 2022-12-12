@@ -83,5 +83,5 @@ html {
   }
 
   header nav ul {
-    
+    display: flex;
   }

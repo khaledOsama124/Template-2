@@ -364,6 +364,11 @@ header nav ul li a:hover {
     color:var(--main-color);
   }
 
+  .services .srv-box p {
+    line-height: 2;
+    color:#777;
+  }
+
 
 
 

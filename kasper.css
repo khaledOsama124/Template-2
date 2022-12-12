@@ -367,6 +367,7 @@ header nav ul li a:hover {
   @media (max-width:767px) {
     .Services .srv-box {
       display: flex;
+      flex-direction: column;
     }
 
   }

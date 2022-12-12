@@ -201,6 +201,7 @@ header nav ul li a:hover {
     padding: 50px;
     background-color: var(--transparent-color);
     color:white;
+    display: flex;
 
 
   }

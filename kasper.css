@@ -234,11 +234,12 @@ header nav ul li a:hover {
   }
 
   .landing .fa-angle-left {
+    left: 30px;
 
   }
 
   .landing .fa-angle-right {
-    
+
   }
 
 

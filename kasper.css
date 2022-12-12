@@ -121,7 +121,7 @@ html {
 
     }
     header nav .toggle-menu:hover + ul li a {
-      
+      padding: 15px;
     }
 
   }

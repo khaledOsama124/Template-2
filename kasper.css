@@ -60,5 +60,6 @@ html {
   }
 
   header .container::after {
+    content:'';
 
   }

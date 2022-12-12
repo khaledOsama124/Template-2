@@ -121,7 +121,7 @@ html {
 
     }
     header nav  ul li a {
-      padding: 15px;
+      padding: 15px !important;
     }
 
   }

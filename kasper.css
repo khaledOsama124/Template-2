@@ -88,10 +88,11 @@ html {
   }
 
   header nav ul li a {
+    padding:40px 10px;
     display: block;
     color:white;
     text-decoration: none;
     font-size:14;
     transition:0.3s;
-    padding:40px 10px;
+    
   }

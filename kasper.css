@@ -1,6 +1,7 @@
 :root {
     --main-color:#19c8fa;
 }
+
 * {
     -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -97,5 +98,9 @@ html {
     text-decoration: none;
     font-size:14;
     transition:0.3s;
+    
+  }
+
+  header nav ul li a.active {
     
   }

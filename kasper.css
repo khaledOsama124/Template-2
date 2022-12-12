@@ -350,7 +350,7 @@ header nav ul li a:hover {
   }
 
   .services .srv-box {
-    
+    display: flex;
   }
 
 

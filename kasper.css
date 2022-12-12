@@ -263,6 +263,7 @@ header nav ul li a:hover {
   }
 
   .landing .bullets li.active {
+    background-color: var(--main-color);
 
   }
 

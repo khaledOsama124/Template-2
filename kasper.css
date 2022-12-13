@@ -669,6 +669,7 @@ header nav ul li a:hover {
   .stats::before {
     content:"";
     position:absolute;
+    left:0;
   }
 
 

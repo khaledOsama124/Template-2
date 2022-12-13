@@ -700,7 +700,7 @@ header nav ul li a:hover {
   }
   @media (min-width:768px) {
     .stats .container .box {
-      flex-basis: 100%;
+      flex-basis: 50%;
     }
 
   }

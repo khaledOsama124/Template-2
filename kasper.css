@@ -579,10 +579,11 @@ header nav ul li a:hover {
   }
 
   .video {
+    position:relative;
 
   }
   .video::before {
-    
+
   }
   
 

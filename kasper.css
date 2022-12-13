@@ -400,6 +400,7 @@ header nav ul li a:hover {
     background-image: url("11095.og.jpg");
     background-size: cover;
     display: flex;
+    align-items: center;
   }
 
 

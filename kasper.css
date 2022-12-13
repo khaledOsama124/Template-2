@@ -426,6 +426,10 @@ header nav ul li a:hover {
 
   }
 
+  @media (max-width: 767px) {
+    
+  }
+
   .design .image img {
     position: relative;
     bottom: -150px;

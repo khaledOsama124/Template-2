@@ -713,6 +713,7 @@ header nav ul li a:hover {
   }
 
   .stats .container .box i {
+    width:40px
 
   }
 
@@ -721,7 +722,7 @@ header nav ul li a:hover {
   }
 
   .stats .container .box P {
-    
+
   }
 
 

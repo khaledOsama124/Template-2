@@ -458,8 +458,8 @@ header nav ul li a:hover {
   }
 
   .design .text ul li::before {
-    font-family: 'font awsome 5 free';
-    content:"\f390";
+    font-family: "font Awesome 5 Free";
+    content: "\f390";
     font-weight: 900;
     margin-right: 20px;
     position: relative;

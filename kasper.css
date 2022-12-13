@@ -397,6 +397,7 @@ header nav ul li a:hover {
     padding-bottom: var(--section-padding);
     height: 600px;
     position: relative;
+    background-image: url("11095.og.jpg");
   }
 
 

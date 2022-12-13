@@ -608,9 +608,11 @@ header nav ul li a:hover {
     background-color: var(--transparent-color);
     text-align: center;
 
+
   }
 
   .video .text h2 {
+    margin:0 0 20px;
 
   }
 

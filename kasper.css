@@ -415,6 +415,7 @@ header nav ul li a:hover {
 
   .design .image {
     position: relative;
+    z-index: 2;
   }
 
 

@@ -394,6 +394,7 @@ header nav ul li a:hover {
 
   .design {
     padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
   }
 
 

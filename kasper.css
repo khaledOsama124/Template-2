@@ -664,6 +664,7 @@ header nav ul li a:hover {
     text-align: center;
     background-image: url(istockphoto-1137820880-1024x1024.jpg);
     background-size: cover;
+    position: relative;
   }
 
 

@@ -579,8 +579,13 @@ header nav ul li a:hover {
   }
 
   .video {
+
+  }
+  .video::before {
     
   }
+  
+
 
 
 

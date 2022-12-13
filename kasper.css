@@ -585,6 +585,7 @@ header nav ul li a:hover {
   .video::before {
     content:"";
     position: absolute;
+    left:0;
 
   }
   

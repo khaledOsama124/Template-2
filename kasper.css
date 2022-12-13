@@ -666,6 +666,11 @@ header nav ul li a:hover {
     background-size: cover;
     position: relative;
   }
+  .stats::before {
+    
+  }
+
+
 
 
 

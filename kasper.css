@@ -717,6 +717,7 @@ header nav ul li a:hover {
     height:40px;
     display: flex;
     background-color: black;
+    justify-content: center;
 
   }
 

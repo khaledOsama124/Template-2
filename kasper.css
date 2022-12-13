@@ -667,7 +667,7 @@ header nav ul li a:hover {
     position: relative;
   }
   .stats::before {
-    
+    content:"";
   }
 
 

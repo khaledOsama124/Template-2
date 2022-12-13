@@ -680,6 +680,7 @@ header nav ul li a:hover {
     position:relative;
     color:white;
     display: flex;
+    flex-wrap: wrap;
 
 
 

@@ -514,6 +514,9 @@ header nav ul li a:hover {
     bottom: 0;
 
   }
+  .portfolio .imgs-container .box:hover img {
+    
+  }
 
   @media (min-width:768px) {
     .portfolio .imgs-container .box {

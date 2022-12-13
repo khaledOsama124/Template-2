@@ -557,12 +557,13 @@ header nav ul li a:hover {
 
   }
   .portfolio .imgs-container .box:hover .caption h4 {
+    font-weight:normal;
 
 
   }
 
   .portfolio .imgs-container .box:hover .caption P {
-    
+
   }
 
 

@@ -646,6 +646,7 @@ header nav ul li a:hover {
 
   .About img {
     position: relative;
+    bottom: -100px;
   }
 
 

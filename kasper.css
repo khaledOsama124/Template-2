@@ -441,6 +441,7 @@ header nav ul li a:hover {
   }
 
   .design .text h2 {
+    font-weight: normal;
 
 
   }
@@ -451,7 +452,7 @@ header nav ul li a:hover {
   }
 
   .design .text ul li::before {
-    
+
   }
 
 

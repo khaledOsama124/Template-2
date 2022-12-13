@@ -653,7 +653,7 @@ header nav ul li a:hover {
   
   @media (max-width:767px) {
     .About img {
-      
+      bottom:-60px;
     }
   }
 

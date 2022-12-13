@@ -510,6 +510,10 @@ header nav ul li a:hover {
 
   }
 
+  .portfolio .imgs-container .box:hover .caption {
+    
+  }
+
   @media (min-width:768px) {
     .portfolio .imgs-container .box {
       flex-basis: 50%;

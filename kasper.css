@@ -705,6 +705,14 @@ header nav ul li a:hover {
 
   }
 
+  @media (min-width:991px) {
+    .stats .container .box {
+      flex-basis: 50%;
+    }
+
+  }
+
+
 
 
 

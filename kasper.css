@@ -564,6 +564,7 @@ header nav ul li a:hover {
   }
 
   .portfolio .imgs-container .box:hover .caption P {
+    color:var(--main-color);
 
   }
 

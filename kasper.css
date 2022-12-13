@@ -603,6 +603,7 @@ header nav ul li a:hover {
     width:100%;
     position: absolute;
     top:50%;
+    transform: translateY(-50%);
 
   }
 

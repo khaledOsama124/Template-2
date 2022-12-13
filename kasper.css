@@ -406,6 +406,7 @@ header nav ul li a:hover {
   .design::before {
     content:'';
     position: absolute;
+    left:0;
   }
 
 

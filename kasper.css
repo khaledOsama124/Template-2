@@ -474,14 +474,14 @@ header nav ul li a:hover {
 
   }
 
-  .porfolio {
+  .portfolio {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
 
 
   }
 
-  .porfolio .shuffle {
+  .portfolio .shuffle {
     display: flex;
     justify-content: center;
   }

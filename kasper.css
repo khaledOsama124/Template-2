@@ -527,9 +527,15 @@ header nav ul li a:hover {
 
 
 
+
+
   .portfolio .imgs-container .box img {
     max-width: 100%;
 
+  }
+
+  .portfolio .imgs-container .box .caption {
+    
   }
 
 

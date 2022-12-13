@@ -475,7 +475,10 @@ header nav ul li a:hover {
   }
 
   .porfolio {
-    
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+
+
   }
 
 

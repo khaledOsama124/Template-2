@@ -496,6 +496,7 @@ header nav ul li a:hover {
   }
 
   .portfolio .imgs-container {
+    display: flex;
 
   }
 
@@ -505,6 +506,7 @@ header nav ul li a:hover {
 
   .portfolio .imgs-container .box img {
     max-width: 100%;
+
   }
 
 

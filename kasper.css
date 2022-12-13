@@ -599,7 +599,7 @@ header nav ul li a:hover {
 
   }
 
-  .video text {
+  .video .text {
     width:100%;
     position: absolute;
     top:50%;
@@ -609,15 +609,15 @@ header nav ul li a:hover {
 
   }
 
-  .video text h2 {
+  .video .text h2 {
 
   }
 
-  .video text p {
+  .video .text p {
 
   }
 
-  .video text button {
+  .video .text button {
 
   }
 

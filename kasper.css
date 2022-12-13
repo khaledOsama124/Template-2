@@ -568,7 +568,7 @@ header nav ul li a:hover {
 
   }
   .portfolio .more {
-    
+    color: var(--main-color);
   }
 
 

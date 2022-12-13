@@ -445,7 +445,12 @@ header nav ul li a:hover {
 
   }
 
-  .design .text ul {
+  .design .text ul li {
+
+
+  }
+
+  .design .text ul li::before {
     
   }
 

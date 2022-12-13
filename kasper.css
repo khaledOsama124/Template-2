@@ -569,6 +569,7 @@ header nav ul li a:hover {
   }
   .portfolio .more {
     background-color: var(--main-color);
+    color:white;
   }
 
 

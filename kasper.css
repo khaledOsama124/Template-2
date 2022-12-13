@@ -587,6 +587,7 @@ header nav ul li a:hover {
     position: absolute;
     left:0;
     top:0;
+    width:100%;
 
   }
   

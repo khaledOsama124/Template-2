@@ -482,7 +482,7 @@ header nav ul li a:hover {
   }
 
   .porfolio .shuffle {
-    
+    display: flex;
   }
 
 

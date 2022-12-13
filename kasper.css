@@ -504,6 +504,7 @@ header nav ul li a:hover {
 
   .portfolio .imgs-container .box {
     position: relative;
+    overflow: hidden;
 
 
 

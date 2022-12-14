@@ -909,6 +909,7 @@ header nav ul li a:hover {
 
   .quote::before {
     content: "";
+    position: relative;
   }
 
   

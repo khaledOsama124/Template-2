@@ -1016,7 +1016,7 @@ header nav ul li a:hover {
 
   }
   .pricing .plans .plan .foot a {
-    
+    display: block;
   }
 
   

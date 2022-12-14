@@ -944,7 +944,13 @@ header nav ul li a:hover {
 
   }
 
-  .pricing .plans .plan .head 
+  .pricing .plans .plan .head  {
+
+  }
+
+  .pricing .plans .plan .head h3 {
+    
+  }
 
   
 

@@ -1008,6 +1008,7 @@ header nav ul li a:hover {
     position:absolute;
     background-color: var(--main-color);
     left: 50%;
+    transform: translateX(-50%);
 
 
 

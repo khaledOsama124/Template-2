@@ -1003,6 +1003,7 @@ header nav ul li a:hover {
 
   .pricing .plans .plan ul li:not(:last-child)::after { 
     content: "";
+    width:120px;
 
 
 

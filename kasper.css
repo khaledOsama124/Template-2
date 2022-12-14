@@ -973,6 +973,7 @@ header nav ul li a:hover {
     position: relative;
     top:-40px;
     margin-right: 15px;
+    font-weight: normal;
 
   }
   .pricing .plans .plan .head span::after {

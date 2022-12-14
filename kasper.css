@@ -935,6 +935,7 @@ header nav ul li a:hover {
 
   .pricing .plans {
     display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 
   }
 

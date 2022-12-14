@@ -888,6 +888,7 @@ header nav ul li a:hover {
     position:absolute;
     border-style: solid;
     border-width: 8px;
+    border-color: red green blue brown;
 
     
   }

@@ -960,7 +960,7 @@ header nav ul li a:hover {
     content: "$";
   }
   .pricing .plans .plan .head span::after {
-    
+    content:"/MO";
   }
 
   

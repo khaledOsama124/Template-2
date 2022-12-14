@@ -902,6 +902,7 @@ header nav ul li a:hover {
     background-image: url(istockphoto-1356112888-612x612.jpg);
     background-size: cover;
     position: relative;
+    text-align: center;
 
   }
 

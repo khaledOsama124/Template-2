@@ -822,7 +822,7 @@ header nav ul li a:hover {
   }
 
   .our-skills .testimonials .bullets {
-    
+    display: flex;
   }
 
   

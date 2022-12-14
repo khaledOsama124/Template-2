@@ -824,6 +824,7 @@ header nav ul li a:hover {
   .our-skills .testimonials .bullets {
     display: flex;
     justify-content: center;
+    margin-top: 50px;
   }
 
   

@@ -836,6 +836,12 @@ header nav ul li a:hover {
     margin-right: 10px;
   }
 
+  .our-skills .testimonials .bullets li.active {
+    background-color: var(--main-color);
+  }
+
+
+
   
 
 

@@ -1031,7 +1031,7 @@ header nav ul li a:hover {
   }
 
   .pricing .contact-link {
-    
+    display: block;
   }
 
   

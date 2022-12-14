@@ -1007,6 +1007,7 @@ header nav ul li a:hover {
     height: 1px;
     position:absolute;
     background-color: var(--main-color);
+    left: 50%;
 
 
 

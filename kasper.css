@@ -662,7 +662,7 @@ header nav ul li a:hover {
     padding-top:var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background-image: url(istockphoto-1137820880-1024x1024.jpg);
+    background-image: url("istockphoto-1137820880-1024x1024.jpg");
     background-size: cover;
     position: relative;
   }
@@ -909,7 +909,7 @@ header nav ul li a:hover {
 
   .quote::before {
     content: "";
-    position: relative;
+    position: absolute;
     left: 0;
     top: 0;
     width: 100%;

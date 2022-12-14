@@ -969,6 +969,7 @@ header nav ul li a:hover {
 
   .pricing .plans .plan .head span::before {
     content: "$";
+    font-size: 20px;
   }
   .pricing .plans .plan .head span::after {
     content:"/MO";

@@ -898,6 +898,7 @@ header nav ul li a:hover {
 
   .quote {
     padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
   }
 
 

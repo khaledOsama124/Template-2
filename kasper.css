@@ -871,6 +871,7 @@ header nav ul li a:hover {
     content: attr( data-progress);
     position: absolute;
     background-color: black;
+    color: wheat;
     
   }
 

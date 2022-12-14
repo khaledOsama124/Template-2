@@ -855,7 +855,7 @@ header nav ul li a:hover {
 
   }
   .our-skills .skills .prog-holder .prog {
-    background-color:#dedadc ;
+    background-color: #dedadc ;
     height: 30px;
 
   }
@@ -868,7 +868,7 @@ header nav ul li a:hover {
 
   }
   .our-skills .skills .prog-holder .prog span::before {
-    content: attr( data-progress);
+    content: attr(data-progress);
     position: absolute;
     background-color: black;
     color: white;
@@ -878,6 +878,7 @@ header nav ul li a:hover {
     width:40px;
     text-align: center;
     border-radius: 4px;
+
 
     
   }

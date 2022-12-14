@@ -831,6 +831,7 @@ header nav ul li a:hover {
   .our-skills .testimonials .bullets li {
     width:14px;
     height: 14px;
+    border: 1px solid #aaa;
   }
 
   

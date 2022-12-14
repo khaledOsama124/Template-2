@@ -783,7 +783,14 @@ header nav ul li a:hover {
   }
 
   @media (max-width:767px) {
-    
+    .our-skills .testimonials .content {
+
+
+    }
+    .our-skills .testimonials .content img {
+
+    }
+
   }
 
 

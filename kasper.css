@@ -747,7 +747,9 @@ header nav ul li a:hover {
   }
 
   @media (min-width:992px) {
-    
+    .our-skills .container {
+      
+    }
   }
 
 

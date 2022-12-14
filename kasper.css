@@ -1034,6 +1034,7 @@ header nav ul li a:hover {
     display: block;
     width: fit-content;
     margin: 20px auto;
+    background-color: var(--main-color);
   }
 
   

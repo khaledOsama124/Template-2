@@ -792,6 +792,7 @@ header nav ul li a:hover {
   @media (max-width:767px) {
     .our-skills .testimonials .content {
       flex-direction: column;
+      text-align: center;
 
 
     }

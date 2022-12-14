@@ -929,7 +929,7 @@ header nav ul li a:hover {
   }
 
   .pricing {
-    
+    padding-top: var(--section-padding);
   }
 
   

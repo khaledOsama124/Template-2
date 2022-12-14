@@ -832,6 +832,7 @@ header nav ul li a:hover {
     width:14px;
     height: 14px;
     border: 1px solid #aaa;
+    border-radius: 50%;
   }
 
   

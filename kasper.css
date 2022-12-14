@@ -934,11 +934,12 @@ header nav ul li a:hover {
   }
 
   .pricing .plans {
+    display: grid;
 
   }
 
   .pricing .plans .plan {
-    
+
   }
 
   

@@ -987,9 +987,11 @@ header nav ul li a:hover {
   .pricing .plans .plan ul {
     border-bottom: 1px solid var(--main-color);
 
+
   }
 
   .pricing .plans .plan ul li {
+    padding:20px;
     
   } 
 

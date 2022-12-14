@@ -868,7 +868,7 @@ header nav ul li a:hover {
 
   }
   .our-skills .skills .prog-holder .prog span::before {
-    content: "";
+    content: attr( data-progress);
     
   }
 

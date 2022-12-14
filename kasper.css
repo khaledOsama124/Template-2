@@ -781,6 +781,7 @@ header nav ul li a:hover {
   .our-skills .testimonials .content img {
     width:100px;
     height:100px;
+    border-radius: 50%;
 
   }
 

@@ -1036,6 +1036,7 @@ header nav ul li a:hover {
     margin: 20px auto;
     background-color: var(--main-color);
     color:white;
+    padding: 10px 20px;
   }
 
   

@@ -911,6 +911,7 @@ header nav ul li a:hover {
     content: "";
     position: relative;
     left: 0;
+    top: 0;
   }
 
   

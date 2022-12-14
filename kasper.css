@@ -948,6 +948,7 @@ header nav ul li a:hover {
 
   .pricing .plans .plan .head  {
     padding:40px 20px;
+    border:1px solid var(--main-color);
 
   }
 

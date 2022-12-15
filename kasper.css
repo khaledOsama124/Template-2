@@ -1176,6 +1176,11 @@ header nav ul li a:hover {
   .contact .content form textarea.main-input {
     height:200px;
 
+
+  }
+
+  .contact .content form input[type="submit"] {
+    
   }
 
 

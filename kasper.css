@@ -1075,6 +1075,7 @@ header nav ul li a:hover {
   }
 
   .subscribe .form {
+    display: flex;
 
   }
 
@@ -1086,7 +1087,7 @@ header nav ul li a:hover {
   }
 
   .subscribe .form input[type="submit"] {
-    
+
   }
 
   

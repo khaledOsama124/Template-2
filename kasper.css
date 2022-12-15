@@ -1261,7 +1261,7 @@ header nav ul li a:hover {
   }
 
   .footer::before {
-    
+    content: "";
   }
 
 

@@ -1304,6 +1304,7 @@ header nav ul li a:hover {
 
   .footer .copyright span {
     font-weight: bold;
+    color: var(--main-color);
 
   }
 

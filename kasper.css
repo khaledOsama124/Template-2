@@ -1196,6 +1196,7 @@ header nav ul li a:hover {
   }
 
   .contact .content .info h4 {
+    text-transform: uppercase;
     
   }
 

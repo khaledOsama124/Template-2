@@ -1100,6 +1100,7 @@ header nav ul li a:hover {
     width: 130px;
     background-color: var(--main-color);
     color: white;
+    padding:10px 20px;
 
   }
 

@@ -1104,14 +1104,15 @@ header nav ul li a:hover {
     color: white;
     padding:10px 20px;
     border: 1px solid white;
-    text-transform: uppercase;
     border-left: none;
-
+    text-transform: uppercase;
+    
 
   }
 
   .subscribe form ::placeholder {
     color: white;
+
   }
   
 

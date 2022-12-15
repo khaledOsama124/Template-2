@@ -1157,7 +1157,7 @@ header nav ul li a:hover {
 
   @media (max-width: 767px) {
     .contact .content {
-      
+      flex-direction: column;
     }
 
   }

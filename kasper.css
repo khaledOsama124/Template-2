@@ -1088,6 +1088,7 @@ header nav ul li a:hover {
   }
   .subscribe form input[type="email"] {
     border:1px solid white;
+    background:none;
 
   }
 

@@ -1165,8 +1165,12 @@ header nav ul li a:hover {
     display: block;
     border:1px solid #ccc;
     margin-bottom: 30px;
-    width: 100%;
+    width: 100%; 
 
+  }
+
+  .contact .content form .main-input:focus {
+    
   }
 
 

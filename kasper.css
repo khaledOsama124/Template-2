@@ -1155,7 +1155,12 @@ header nav ul li a:hover {
 
   }
 
-  @media (max-width: 767px) 
+  @media (max-width: 767px) {
+    .contact .content {
+      
+    }
+
+  }
 
   .contact .content form {
     flex-basis: 70%;

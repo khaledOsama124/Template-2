@@ -1129,6 +1129,9 @@ header nav ul li a:hover {
   }
 
   .subscribe p {
+    line-height: 2;
+    margin-left: 50px;
+
 
   }
 

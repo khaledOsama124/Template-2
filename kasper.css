@@ -1156,11 +1156,12 @@ header nav ul li a:hover {
   }
 
   .contact .content form {
+    flex-basis: 70%;
 
   }
 
   .contact .content form .main-input {
-    
+
   }
 
 

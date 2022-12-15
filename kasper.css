@@ -1230,7 +1230,9 @@ header nav ul li a:hover {
 
   }
 
-  @media (max-width: 767px) 
+  @media (max-width: 767px) {
+    
+  }
   .contact .content .info address {
     color:#777;
     line-height: 2;

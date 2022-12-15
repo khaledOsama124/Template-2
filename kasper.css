@@ -1082,6 +1082,10 @@ header nav ul li a:hover {
 
   }
   .subscribe .form input[type="email"] {
+
+  }
+
+  .subscribe .form input[type="submit"] {
     
   }
 

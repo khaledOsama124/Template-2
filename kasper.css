@@ -1043,7 +1043,7 @@ header nav ul li a:hover {
   .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(1-13677_subscribe-now-png-subscribe-now-button-png.png);
+    background-image: url(images.png);
     background-size: cover;
     position: relative;
     color: white;
@@ -1084,6 +1084,7 @@ header nav ul li a:hover {
   }
 
   .subscribe form i {
+    position: absolute;
 
   }
   .subscribe form input[type="email"] {

@@ -1257,6 +1257,7 @@ header nav ul li a:hover {
     background-size: cover;
     position: relative;
     color:white;
+    text-align: center;
   }
 
 

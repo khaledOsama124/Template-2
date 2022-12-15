@@ -1085,6 +1085,7 @@ header nav ul li a:hover {
 
   .subscribe form i {
     position: absolute;
+    top: 50%;
 
   }
   .subscribe form input[type="email"] {

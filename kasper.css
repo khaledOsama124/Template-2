@@ -1129,6 +1129,10 @@ header nav ul li a:hover {
   }
 
   .subscribe p {
+
+  }
+
+  @media (max-width :991px) {
     
   }
 

@@ -1181,6 +1181,7 @@ header nav ul li a:hover {
 
   .contact .content form input[type="submit"] {
     background-color: var(--main-color);
+    color: white;
   }
 
 

@@ -1204,6 +1204,7 @@ header nav ul li a:hover {
   }
 
   .contact .content .info .phone {
+    display: block;
     
   }
 

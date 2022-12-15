@@ -1251,7 +1251,7 @@ header nav ul li a:hover {
 
 
   .footer {
-    
+    padding-top:calc(var( --section-padding) / 2);
   }
 
 

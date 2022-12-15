@@ -1076,6 +1076,7 @@ header nav ul li a:hover {
 
   .subscribe .form {
     display: flex;
+    position: relative;
 
   }
 

@@ -1231,7 +1231,10 @@ header nav ul li a:hover {
   }
 
   @media (max-width: 767px) {
-    
+    .contact .content .info h4:nth-of-type(2) {
+      
+    }
+
   }
   .contact .content .info address {
     color:#777;

@@ -1064,6 +1064,7 @@ header nav ul li a:hover {
   .subscribe .container {
     position: relative;
     display: flex;
+    align-items: center;
   }
 
   

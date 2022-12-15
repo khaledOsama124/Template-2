@@ -1184,6 +1184,7 @@ header nav ul li a:hover {
     color: white;
     padding: 20px;
     border: none;
+    display: flex;
   }
 
 

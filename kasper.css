@@ -1254,6 +1254,7 @@ header nav ul li a:hover {
     padding-top:calc(var( --section-padding) / 2);
     padding-bottom: calc(var( --section-padding) / 2);
     background-image: url(contact-copyright-info-photoshop-fs.jpg);
+    background-size: cover;
   }
 
 

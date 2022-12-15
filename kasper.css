@@ -1104,6 +1104,7 @@ header nav ul li a:hover {
     padding:10px 20px;
     border: 1px solid white;
     text-transform: uppercase;
+    border-left: none;
 
 
   }

@@ -1052,6 +1052,7 @@ header nav ul li a:hover {
 
   .subscribe::before {
     content: "";
+    position: absolute;
 
   }
 

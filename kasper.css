@@ -1206,6 +1206,7 @@ header nav ul li a:hover {
   .contact .content .info .phone {
     display: block;
     color:#777;
+    margin-bottom: 10px;
     
   }
 

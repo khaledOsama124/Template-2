@@ -1065,6 +1065,11 @@ header nav ul li a:hover {
     position: relative;
     display: flex;
     align-items: center;
+
+  }
+
+  @media (max-width:991px) {
+    
   }
 
   

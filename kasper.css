@@ -1263,6 +1263,8 @@ header nav ul li a:hover {
   .footer::before {
     content: "";
     position: absolute;
+    left:0;
+    top:0;
   }
 
 

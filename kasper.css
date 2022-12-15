@@ -1099,6 +1099,7 @@ header nav ul li a:hover {
   .subscribe form input[type="submit"] {
     width: 130px;
     background-color: var(--main-color);
+    color: white;
 
   }
 

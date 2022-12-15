@@ -1074,18 +1074,19 @@ header nav ul li a:hover {
     }
   }
 
-  .subscribe .form {
+  .subscribe form {
     display: flex;
     position: relative;
     width: 500px;
     max-width: 100%;
 
-  }
-
-  .subscribe .form i {
 
   }
-  .subscribe .form input[type="email"] {
+
+  .subscribe form i {
+
+  }
+  .subscribe form input[type="email"] {
 
   }
 

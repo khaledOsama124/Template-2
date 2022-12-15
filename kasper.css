@@ -1135,6 +1135,7 @@ header nav ul li a:hover {
   @media (max-width :991px) {
     .subscribe p {
       line-height: 2;
+      margin-left: 50px;
 
     }
   

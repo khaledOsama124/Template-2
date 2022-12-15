@@ -1041,11 +1041,12 @@ header nav ul li a:hover {
   }
 
   .subscribe {
+    padding-top: var(--section-padding);
     
   }
 
   .subscribe::before {
-    
+
   }
 
   

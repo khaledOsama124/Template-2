@@ -1271,7 +1271,7 @@ header nav ul li a:hover {
   }
 
   .footer .container {
-    
+    position: relative;
   }
 
 

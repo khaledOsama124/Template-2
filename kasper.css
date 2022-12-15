@@ -1151,6 +1151,7 @@ header nav ul li a:hover {
 
   .contact .content {
     display: flex;
+    justify-content: space-between;
   }
 
 

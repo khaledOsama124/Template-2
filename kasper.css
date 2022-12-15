@@ -1162,6 +1162,7 @@ header nav ul li a:hover {
 
   .contact .content form .main-input {
     padding: 20px;
+    display: block;
 
   }
 

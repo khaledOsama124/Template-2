@@ -1276,7 +1276,11 @@ header nav ul li a:hover {
   }
 
   .footer p:not(.copyright) {
-    
+
+  }
+
+  .footer .social-icons i {
+
   }
 
 
